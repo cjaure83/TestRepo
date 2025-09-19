@@ -1,0 +1,14 @@
+G1 25/8
+G2 15/9
+G3 8/9
+G4 1/9
+
+G7 8/9
+G8 11/9
+G9 14/9
+
+Datos 
+Sin territorio ppal
+Técnicos sin terroritos
+Técnicos sin turnos
+
